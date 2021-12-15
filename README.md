@@ -3,7 +3,7 @@
 # Overview
 
 - JavaFX application to track the price of Bitcoin (ticker symbol BTC).
-- Toggle between monthly, dayly, and hourly BTC prices.
+- Toggle between monthly, daily, and hourly BTC prices.
 - Utilized the cryptocompare.com public API to obtain prices. 
 
 # How to use
@@ -20,7 +20,7 @@
 -- PLEASE UPDATE SUMMARY
 
 - Detailed Features:
-    - Toggle between Monthly, dayly, and hourly price views.
+    - Toggle between Monthly, daily, and hourly price views.
     - Asynchronously load UI to improve application loading speeds.
     - Using Google's GSON API to pull BTC prices from cryptocompare.com's public API.
       - Used string interpolation to pull price intervals formatted in milliseconds for monthly, dayly and hourly BTC prices.  
