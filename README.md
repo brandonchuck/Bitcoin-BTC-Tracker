@@ -2,7 +2,7 @@
 
 # Overview
 
-- JavaFX application to track the price of Bitcoin (ticker symbol BTC) using cryptocompare.com API.
+- JavaFX application to track the price of Bitcoin (ticker symbol BTC).
 - Toggle between monthly, dayly, and hourly BTC prices.
 - Utilized the cryptocompare.com public API to obtain prices. 
 
