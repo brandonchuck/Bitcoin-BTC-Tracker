@@ -17,7 +17,7 @@
 
 # Summary
 
--- PLEASE UPDATE SUMMARY
+-- UPDATE SUMMARY
 
 - Detailed Features:
     - Toggle between Monthly, daily, and hourly price views.
